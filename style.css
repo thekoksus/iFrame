@@ -39,3 +39,6 @@ code {
     align-items: center;
     align-content: center;
 }
+#forceRefreshBtn:hover {
+    cursor: pointer;
+}
